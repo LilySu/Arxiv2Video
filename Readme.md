@@ -1,11 +1,10 @@
 # Arxiv2Video
 
-Welcome to Arxiv2Video! This repository contains an MP4 video named "2006.02471.mp4".
+Arxiv2Video is an automated Two-minute papers converter using LLM's.
 
-You can view the video directly by clicking the link below:
+It is a Gradio application that converts a paper on Arxiv via the paper's url into a short-form video. 
 
-
-![Video Generated from URL](2006.02471.mp4)
+![Arxiv2Video preview](2006.02471.gif)
+[![See Here for the Full 3:28 min Video Generated from URL]](2006.02471.mp4)
 ![Interface of Arxiv2Video](Arxiv2VideoInterface.png)
 
-Feel free to explore and enjoy the content!
